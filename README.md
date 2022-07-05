@@ -1,10 +1,6 @@
 # Gmail-application
 
-
-![interface](https://user-images.githubusercontent.com/65435678/177229895-079d2d67-809b-46f2-901d-831415547cf9.png)
-
-
-Hi, I made a simple Python app that helps you send mail from your Gmail account to any other account,
+### Hi, I made a simple Python app that helps you send mail from your Gmail account to any other account,
 
 1-	After downloading the files, you need to go to the "IMPORTANT" folder which contains images showing how to allow third-party apps to access your Gmail
 •	Just from the settings page, the home page of Google:
@@ -20,5 +16,14 @@ o	https://myaccount.google.com/?utm_source=account-marketing-page&utm_medium=go-
 
 6-	If you want to convert the program to an .exe file, go to YouTube, as there are many sources.
 
-Have fun
+Have fun :)
+
+
+
+
+![interface](https://user-images.githubusercontent.com/65435678/177230067-91716daf-9991-4b37-9651-f7d30517eb44.png)
+
+
+
+
 
