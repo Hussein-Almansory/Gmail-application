@@ -7,7 +7,7 @@ def send_email():
     receiver = to_entry.get()
     subject = subject_entry.get()
     body = message_text.get('1.0', END)
-    password = 'qiidzcfevxdzvfgt'
+    password = 'enter your password'
 
     if sender == '' or receiver == '' or subject == '' or body == '':
         messagebox.showerror(message='Please enter all fileds')
